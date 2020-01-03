@@ -1,0 +1,8 @@
+RobinsonEtAl2020 (c) by Teresita M. Porter
+
+RobinsonEtAl2020 infiles and scripts are licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+

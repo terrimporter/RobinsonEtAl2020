@@ -12,7 +12,7 @@ cat.csv contains the ESV ids, sample names, and taxonomic assignments.
 
 Fig 1 ESV richness.  Uses cat.csv
 
-Fig 2 Venn diagrams.
+Fig 2 NMDS plots.  Uses cat.csv
 
 Fig 3 Ethanol vs Antifreeze genera.
 

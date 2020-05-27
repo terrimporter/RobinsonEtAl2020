@@ -7,18 +7,19 @@ Infiles and scripts can be downloaded from https://github.com/terrimporter/Robin
 ## Infiles
 
 cat.csv contains the ESV ids, sample names, and taxonomic assignments.  
+Values_for_VennDiagrams.xlsx contains the values used in the Venn diagrams.
 
 ## R Scripts
 
-Fig 1 ESV richness.  Uses cat.csv
+Fig1_Richness.R calcualtes ESV richness.  Uses cat.csv as an infile.
 
-Fig 2 NMDS plots.  Uses cat.csv
+Fig2_NMDS.R creates NMDS plots.  Uses cat.csv as an infile.
 
-Fig 3 Venn diagrams.
+Fig3_Venn.R draws Venn diagrams.  Uses values from Values_for_VennDiagrams.xlsx
 
-Fig 4 Ethanol vs Antifreeze xy-plot showing orders and genera.  Uses cat.csv
+Fig4_AntifreezeVsEthanol.R compares Ethanol vs Antifreeze xy-plot showing orders and genera.  Uses cat.csv as an infile.
 
-Fig 5 Ethanol vs Antifreeze EPT family heatmaps.  Uses cat.csv
+Fig5_EPTheatmap.R compares Ethanol vs Antifreeze EPT families as heatmaps.  Uses cat.csv as an infile.
 
 ## Supplementary data files
 

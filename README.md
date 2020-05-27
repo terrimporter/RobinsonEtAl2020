@@ -8,16 +8,28 @@ Infiles and scripts can be downloaded from https://github.com/terrimporter/Robin
 
 xxx
 
-## Scripts
+## R Scripts
 
-xxx
+Fig 1 ESV richness.  
+
+Fig 2 Venn diagrams.
+
+Fig 3 Ethanol vs Antifreeze genera.
+
+Fig 4 Ethanol vs Antifreeze EPT.
+
+## Supplementary data files
+
+1. Denoised ESVs (FASTA)
+
+2. ESV x sample table (txt)
 
 ## References
 
-xxx
+Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M.  Propylene glycol-based antifreeze as an effective preservative for bulk-benthos DNA metabarcoding of macroinvertebrates.
 
 ## Acknowledgements
 
 I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (EcoBiomics) project.
 
-Last updated: January 3, 2020
+Last updated: May 26, 2020

@@ -22,9 +22,9 @@ Fig 5 Ethanol vs Antifreeze EPT family heatmaps.  Uses cat.csv
 
 ## Supplementary data files
 
-1. Denoised ESVs (FASTA)
+1. Denoised ESVs (FASTA) for BR5, F230R, and ml-jg.  These files are concatenated in Infiles/cat.csv
 
-2. ESV x sample table (txt)
+2. ESV x sample tables for BR5, F230R, and ml-jg
 
 ## References
 

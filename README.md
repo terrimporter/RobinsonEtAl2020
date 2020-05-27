@@ -18,7 +18,7 @@ Fig 3 Venn diagrams.
 
 Fig 4 Ethanol vs Antifreeze xy-plot showing orders and genera.  Uses cat.csv
 
-Fig 5 Ethanol vs Antifreeze EPT family heatmaps.
+Fig 5 Ethanol vs Antifreeze EPT family heatmaps.  Uses cat.csv
 
 ## Supplementary data files
 
@@ -32,6 +32,6 @@ Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M.  Propylene glycol-bas
 
 ## Acknowledgements
 
-I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (EcoBiomics) project.
+I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
 Last updated: May 26, 2020

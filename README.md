@@ -14,9 +14,11 @@ Fig 1 ESV richness.  Uses cat.csv
 
 Fig 2 NMDS plots.  Uses cat.csv
 
-Fig 3 Ethanol vs Antifreeze genera.
+Fig 3 Venn diagrams.
 
-Fig 4 Ethanol vs Antifreeze EPT.
+Fig 4 Ethanol vs Antifreeze xy-plot showing orders and genera.  Uses cat.csv
+
+Fig 5 Ethanol vs Antifreeze EPT family heatmaps.
 
 ## Supplementary data files
 

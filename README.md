@@ -7,7 +7,9 @@ Infiles and scripts can be downloaded from https://github.com/terrimporter/Robin
 ## Infiles
 
 cat.csv contains the ESV ids, sample names, and taxonomic assignments.  
+
 Values_for_VennDiagrams.xlsx contains the values used in the Venn diagrams.
+
 Sites.csv contains the coordinates needed to plot sites on the map.
 
 ## R Scripts

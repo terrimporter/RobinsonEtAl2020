@@ -22,6 +22,8 @@ Fig4_AntifreezeVsEthanol.R compares Ethanol vs Antifreeze xy-plot showing orders
 
 Fig5_EPTheatmap.R compares Ethanol vs Antifreeze EPT families as heatmaps.  Uses cat.csv as an infile.
 
+FigS1_Map.R plots sites on the map.  Uses Sites.csv as an infile.
+
 ## Supplementary data files
 
 1. Denoised, chimera-filtered ESVs (FASTA) for BR5, F230R, and ml-jg.  
@@ -29,8 +31,6 @@ Fig5_EPTheatmap.R compares Ethanol vs Antifreeze EPT families as heatmaps.  Uses
 2. Denoised, chimera-filtered ESVs, pseudogene-filtered ORFs (FASTA) for BR5, F230R, and ml-jg.
 
 3. ESV x sample tables for BR5, F230R, and ml-jg.  These are based on the denoised, chimera-, and pseudogene-filtered ESVs.
-
-4. FigS1_Map.R plots sites on the map.  Uses Sites.csv as an infile.
 
 ## References
 

@@ -1,6 +1,6 @@
 # README
 
-This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020 (in prep).
+This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020 (submitted).
 
 Infiles and scripts can be downloaded from https://github.com/terrimporter/RobinsonEtAl2020/releases .
 
@@ -22,13 +22,15 @@ Fig 5 Ethanol vs Antifreeze EPT family heatmaps.  Uses cat.csv
 
 ## Supplementary data files
 
-1. Denoised ESVs (FASTA) for BR5, F230R, and ml-jg.  These files are concatenated in Infiles/cat.csv
+1. Denoised, chimera-filtered ESVs (FASTA) for BR5, F230R, and ml-jg.  
 
-2. ESV x sample tables for BR5, F230R, and ml-jg
+2. Denoised, chimera-filtered ESVs, pseudogene-filtered ORFs (FASTA) for BR5, F230R, and ml-jg.
+
+3. ESV x sample tables for BR5, F230R, and ml-jg.  These are based on the denoised, chimera-, and pseudogene-filtered ESVs.
 
 ## References
 
-Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M.  Propylene glycol-based antifreeze as an effective preservative for bulk-benthos DNA metabarcoding of macroinvertebrates.
+Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M. (2020) Propylene glycol-based antifreeze as an effective preservative for bulk-benthos DNA metabarcoding of macroinvertebrates.
 
 ## Acknowledgements
 

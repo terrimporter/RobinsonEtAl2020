@@ -2,7 +2,7 @@
 
 This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020 (submitted to Freshwater Science).
 
-Infiles and scripts can be downloaded from https://github.com/terrimporter/RobinsonEtAl2020/releases .
+Infiles, R scripts, and supplementary data files can be downloaded from https://github.com/terrimporter/RobinsonEtAl2020/releases .
 
 ## Infiles
 

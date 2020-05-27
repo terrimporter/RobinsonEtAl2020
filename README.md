@@ -6,11 +6,11 @@ Infiles and scripts can be downloaded from https://github.com/terrimporter/Robin
 
 ## Infiles
 
-xxx
+cat.csv contains the ESV ids, sample names, and taxonomic assignments.  
 
 ## R Scripts
 
-Fig 1 ESV richness.  
+Fig 1 ESV richness.  Uses cat.csv
 
 Fig 2 Venn diagrams.
 

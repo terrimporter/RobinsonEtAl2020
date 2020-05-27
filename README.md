@@ -1,13 +1,16 @@
 # README
 
-This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020 (submitted).
+This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020 (submitted to Freshwater Science).
 
 Infiles and scripts can be downloaded from https://github.com/terrimporter/RobinsonEtAl2020/releases .
 
 ## Infiles
 
 cat.csv contains the ESV ids, sample names, and taxonomic assignments.  
+
 Values_for_VennDiagrams.xlsx contains the values used in the Venn diagrams.
+
+Sites.csv contains the coordinates needed to plot sites on the map.
 
 ## R Scripts
 
@@ -21,6 +24,14 @@ Fig4_AntifreezeVsEthanol.R compares Ethanol vs Antifreeze xy-plot showing orders
 
 Fig5_EPTheatmap.R compares Ethanol vs Antifreeze EPT families as heatmaps.  Uses cat.csv as an infile.
 
+FigS1_Map.R plots sites on the map.  Uses Sites.csv as an infile.
+
+FigS3_Phyla_SuppTable.R plots the read abundance for each phylum.  Uses cat.csv as an infile.
+
+FigS4_Rarefaction.R plots rarefaction curves.  Uses cat.csv as an infile.
+
+FigS5_PropConf.R plots the number of unique taxa, all versus those confidently identified.  Uses cat.csv as an infile.
+
 ## Supplementary data files
 
 1. Denoised, chimera-filtered ESVs (FASTA) for BR5, F230R, and ml-jg.  
@@ -31,7 +42,7 @@ Fig5_EPTheatmap.R compares Ethanol vs Antifreeze EPT families as heatmaps.  Uses
 
 ## References
 
-Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M. (2020) Propylene glycol-based antifreeze as an effective preservative for bulk-benthos DNA metabarcoding of macroinvertebrates.
+Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M. (2020) Propylene glycol-based antifreeze as an effective preservative for bulk-benthos DNA metabarcoding of macroinvertebrates.  Submitted to Freshwater Science.
 
 ## Acknowledgements
 

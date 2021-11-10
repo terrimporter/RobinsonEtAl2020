@@ -1,6 +1,6 @@
 # README
 
-This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020 (submitted to Freshwater Science).
+This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2020.
 
 Infiles, R scripts, and supplementary data files can be downloaded from https://github.com/terrimporter/RobinsonEtAl2020/releases .
 
@@ -42,10 +42,10 @@ FigS5_PropConf.R plots the number of unique taxa, all versus those confidently i
 
 ## References
 
-Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M. (2020) Propylene glycol-based antifreeze as an effective preservative for bulk-benthos DNA metabarcoding of macroinvertebrates.  Submitted to Freshwater Science.
+Robinson, C.V., Porter, T.M., Wright, M.T., Hajibabaei, M. (2020) Propylene glycol-based antifreeze is an effective preservative for DNA metabarcoding of benthic arthropods.  Freshwater Science, 40(1): 77-87.  https://www.journals.uchicago.edu/doi/full/10.1086/712232  
 
 ## Acknowledgements
 
 I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: May 26, 2020
+Last updated: Nov. 10, 2021
